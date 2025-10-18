@@ -11,4 +11,5 @@ The git checkout will change branch. EX: git checkout feature.
 The git push, if it doesn't have upstream branch, not knowing where to push basically, use this:
 #  git push --set-upstream origin <name branch>
 That will create a PR for the main branch to check and see if they should approved it or not.
- 
+
+ELTS GO THIS IS SO FUCKING WRONG RIGHT NOW AHHHHHHHH

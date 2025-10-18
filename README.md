@@ -12,4 +12,10 @@ The git push, if it doesn't have upstream branch, not knowing where to push basi
 #  git push --set-upstream origin <name branch>
 That will create a PR for the main branch to check and see if they should approved it or not.
 
+<<<<<<< HEAD
 ELTS GO THIS IS SO FUCKING WRONG RIGHT NOW AHHHHHHHH
+=======
+Use git commit -am if: Added ALREADY EXISTED file, when it says "Modified". Newly created files don't count
+
+ALSO THIS IS THE RIGHT VERSION PLEASE PICK ME!!!!
+>>>>>>> main

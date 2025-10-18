@@ -19,8 +19,10 @@ ALSO THIS IS THE RIGHT VERSION PLEASE PICK ME!!!!
 If git merge, the interface is SO GOOD!!! But then you have to commit again, which is still SO GOOD!!! 
 
 CAN YOU UNDO YOUR COMMIT IN GIT????
-Yes. git reset file to counterattack git add . 
+Yes. git reset <file> to counterattack git add . 
 Use git reset HEAD~1 to undo the even-1-further-away step, so from finished commit --> Stop commit --> Stop add .
 
 NOTE: git reset <commit ID> will unstaged all previous commits leading to this commit. So the changes are still there, just not saved in git.  Use git log to access the commit history.
 NOTE: git reset --hard <commit ID> will REMOVE all previous commmits, changes leading to this commit. It is no longer there. Be careful about this.
+
+FORKING!!! literally copying a person's code. Bruh. Not worth a commit at all but I guess.

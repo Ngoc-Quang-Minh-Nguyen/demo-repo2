@@ -5,3 +5,8 @@ then git commit to save the change. Then make a new repository in git hub and th
 
 ## Subheader
 This is a change in the branch called feature. Currently there are two version in demo-repo2: main and feature. 
+
+The git checkout will change branch. EX: git checkout feature.
+The git push, if it doesn't have upstream branch, not knowing where to push basically, use this:
+#  git push --set-upstream origin <name branch>
+That will create a PR for the main branch to check and see if they should approved it or not.
